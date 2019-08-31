@@ -1,0 +1,58 @@
+
+body {
+	background-color: black;
+}
+a { 
+font-family: 'Press Start 2P', cursive; 
+font-size: 50px;
+color:white;
+position: absolute;
+}
+.hooman {
+width:300pt;
+margin-top: 100pt;
+margin-left: -490pt;
+position: absolute;
+}
+.hooman:hover {
+width: 500pt;
+margin-left: -600pt;
+margin-top:80pt;
+}
+
+#parrot {
+position: absolute;
+margin-left: 1200px;
+margin-top: 70px;
+}
+#fox {
+	position:absolute;
+	margin-left: 150pt;
+	margin-top: 150pt;
+}
+#dandelion {
+	margin-left: 1050px;
+	margin-top: 600px;
+}
+
+#oblock {
+	width: 300px;
+	position: absolute;
+	margin-top: 500px;
+	margin-left: 750px
+}
+
+#tree {
+	width: 400px;
+	margin-left: 1080px;
+	margin-top: 300px;
+	position: absolute;
+}
+
+#gblock {
+	margin-top: 400px;
+	margin-left: 100px;
+	width: 550px;
+	position:absolute;
+}
+
