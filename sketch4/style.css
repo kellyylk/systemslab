@@ -1,0 +1,32 @@
+body {
+	background-color: #e3dbd3;
+}
+
+#anatomy {
+position:absolute;
+width: 500pt;
+margin-left: 300pt;
+}
+
+#ribcage {
+position:absolute;
+margin-top: 150pt;
+margin-left: 100pt;
+width: 400pt;
+}
+
+#skull {
+position:absolute;
+width: 300pt;
+margin-left: 700pt;
+}
+
+
+a {
+	position: absolute;
+	font-style: italic;
+	margin-left: 300pt;
+	font-size: 40pt;
+	color: white;
+}
+
