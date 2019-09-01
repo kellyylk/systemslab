@@ -1,0 +1,41 @@
+body {
+	height: 200px;
+	background-color: #291b1a;
+	background-image: linear-gradient(to right, #291b1a, #7f8777) ;
+}
+
+p {
+	color: white;
+	font-size: 30pt;
+	font-family: 'Quicksand';
+	text-align: center;
+	margin-top: 100pt;
+}
+
+
+.buttons a{
+font-family: 'Quicksand';
+  text-decoration: none;
+  display: block;
+   color: white;
+   text-align: center;
+   font-size: 40px;
+   padding: 10px 20px;
+   margin: 125px;
+    border: 2px solid;
+   transition-duration: 0.3s;
+   background-image: linear-gradient(to right, #7f8777, #291b1a);
+
+}
+
+.buttons a:hover {
+  color:black;
+  background-image: linear-gradient(to top right, white, white); /* Standard syntax (must be last) */
+  filter:blur(30px);
+}
+
+img {
+	width: 800px;
+	margin-left: 400px;
+	margin-top: 180px;
+}
